@@ -1,37 +1,40 @@
+# 🧙‍♂️ Hogwarts Tic-Tac-Toe
 
-🔮 Hogwarts Tic-Tac-Toe
-A magical twist on the classic Tic-Tac-Toe game, built with Node.js, Express, and pure HTML/CSS/JavaScript. This fun project includes a themed UI inspired by the Harry Potter universe, complete with whimsical fonts and messages like “⚡Expecto Victory!” and “🎉 Mischief Managed!”
+A magical twist on the classic Tic-Tac-Toe game, built with *Node.js, **Express, and pure **HTML/CSS/JavaScript. This whimsical project features a Hogwarts-themed UI inspired by the **Harry Potter* universe, with enchanting fonts, animations, and magical messages like:
 
-📁 Project Structure
-This is a simple backend-driven frontend game hosted using Express.js. When you run the server, it serves a single HTML page containing the interactive Hogwarts-style game.
+- ⚡ Expecto Victory!
+- 🎉 Mischief Managed!
 
-🚀 Features
-🎨 Themed UI with custom Hogwarts fonts and colors
+---
 
-⚡ Game logic for detecting wins/draws
+## 📁 Project Structure
 
-🔁 "Accio Restart" button to reset the board
+This project uses a simple *Express.js* server to serve a single HTML file containing the interactive Hogwarts-style Tic-Tac-Toe game. There is no database or complex routing — just pure frontend fun delivered via a lightweight backend.
 
-✨ Responsive hover effects and animations
+---
 
-📦 Technologies Used
-Node.js
+## 🚀 Features
 
-Express.js
+- 🎨 Themed UI with custom Hogwarts-style fonts and house colors  
+- ⚡ Game logic to detect wins and draws  
+- 🔁 "Accio Restart" button to reset the board  
+- ✨ Responsive hover effects and animations for magical interactivity  
 
-HTML5
+---
 
-CSS3
+## 🧰 Technologies Used
 
-JavaScript
+- [Node.js](https://nodejs.org/)
+- [Express.js](https://expressjs.com/)
+- HTML5  
+- CSS3  
+- JavaScript  
 
-🛠 How to Run
-1. Clone this repository
+---
+
+## 🛠 How to Run
+
+1. *Clone this repository*  
+   ```bash
    git clone https://github.com/your-username/hogwarts-tic-tac-toe.git
    cd hogwarts-tic-tac-toe
-2. Install dependencies
-    npm install
-3. Start the server
-   node app.js
-4. Open in your browser
-   Visit: http://localhost:3000
