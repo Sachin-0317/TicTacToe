@@ -23,7 +23,7 @@ HTML5
 
 CSS3
 
-Vanilla JavaScript
+JavaScript
 
 🛠 How to Run
 1. Clone this repository
